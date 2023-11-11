@@ -6,4 +6,4 @@ Platforms we use:
 2. Codeforces : [Codeforces id](https://codeforces.com/profile/procoder_hp14)
 
 Streak Recorder:
-- Day 1: 11/11/23: 3 problems
+- Day 1: 11/11/23:   3 problems
