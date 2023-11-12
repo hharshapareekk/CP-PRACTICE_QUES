@@ -1,4 +1,4 @@
-# CP-PRACTICE_QUES
+# CP_Streaks
 Includes all competitive programming problems that I solved for the day.
 
 Platforms I use:
