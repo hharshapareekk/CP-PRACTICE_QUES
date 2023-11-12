@@ -7,3 +7,4 @@ Platforms I use:
 
 Streak Recorder:
 1. Day 1: 11/11/23: 3 problems
+2. Day 2: 12/11/23: 2 problems
