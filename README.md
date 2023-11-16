@@ -6,7 +6,7 @@ Platforms I use:
 2. Codeforces: [Codeforces id](https://codeforces.com/profile/procoder_hp14)
 3. StopStalk : [Stopstalk id](https://www.stopstalk.com/user/profile/harshaa_p)
 
-Streak Recorder: (Max streak: 2 days)
+Streak Recorder: (Max streak: 5 days)
 1. Day 1: 11/11/23: 3 
 2. Day 2: 12/11/23: 2 
 3. Day 3: 13/11/23: 1
