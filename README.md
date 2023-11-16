@@ -7,6 +7,9 @@ Platforms I use:
 3. StopStalk : [Stopstalk id](https://www.stopstalk.com/user/profile/harshaa_p)
 
 Streak Recorder: (Max streak: 2 days)
-1. Day 1: 11/11/23: 3 problems
-2. Day 2: 12/11/23: 2 problems
-3. Day 3: 13/11/23: 
+1. Day 1: 11/11/23: 3 
+2. Day 2: 12/11/23: 2 
+3. Day 3: 13/11/23: 1
+4. Day 4: 14/11/23: 1 (code left logic done)
+5. Day 5: 15/11/23: 4+1
+6. Day 6: 16/11/23: 
