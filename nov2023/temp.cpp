@@ -5,7 +5,7 @@ using namespace std;
 #define ll long long
 int main()
 {
-  ll ans= (max((float)2,(float)2.5));
+  float ans= 1;
   cout<<ans;
   return 0;
 }
