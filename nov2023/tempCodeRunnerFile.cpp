@@ -1,32 +1,36 @@
-//Codes Of Harsha Pareek
-//Problem Statement : https://codeforces.com/problemset/problem/1883/A
+// Codes Of Harsha Pareek
+// Problem Statement :
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
+int XOR(int x, int y)
+{
+    return (x | y) & (~x | ~y);
+}
 int main()
 {
-    ll t;
-    cin>>t;
-    while(t--)
+    int t;
+    cin >> t;
+    while (t--)
     {
-        string str;
-        cin>>str;
-        int sol=0;
-        int updates=1;
-        for(int i=0;i<4;i++)
+        int n;
+        cin >> n;
+        int arr[n];
+        int val =0;
+        int minVal = INT32_MAX;
+        for (int i = 0; i < n; i++)
         {
-            if(str[i]=='0')
+            cin >> arr[i];
+            if (i > 0 && i <= (n - 1))
             {
-                sol +=9;
-                updates= str[i];
+                val = XOR(arr[i - 1], arr[i]);
             }
-            else
+            if (val < minVal)
             {
-                sol+= (str[i]-updates)+1;
-                updates= str[i];
+                minVal = val;
             }
         }
-        cout<<sol<<endl;
+        cout<<minVal<<endl;
     }
-  return 0;
+    return 0;
 }
