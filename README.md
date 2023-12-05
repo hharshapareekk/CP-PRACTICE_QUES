@@ -1,4 +1,4 @@
-# CP_Streaks
+# CP_DPP
 Includes all competitive programming problems that I solved for the day.
 
 Platforms I use:
