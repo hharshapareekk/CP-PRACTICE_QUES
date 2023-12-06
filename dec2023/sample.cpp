@@ -5,8 +5,10 @@ using namespace std;
 #define ll long long
 int main()
 {
-    string str = ;
-    cout<<str.length();
+    string str = "abcdefg";
+    char val = str[2];
+    int value = int(val);
+    cout<<value;
 
     return 0;
 }
